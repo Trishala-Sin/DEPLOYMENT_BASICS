@@ -9,4 +9,5 @@ For Experimenting and learning the practicle application of FLASK, I have create
 * pip freeze > requirements.txt
 * python3 -m venv <font color = 'blue'> env_name</font>
 * python -m pip install -r requirements.txt
-* 
+
+For the working of FLASK I have taken Telecom churn case study. 
